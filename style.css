@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@800&family=Permanent+Marker&family=Praise&family=Shippori+Antique+B1&display=swap');
+*{
+    margin: 0px;
+}
+
+nav{
+    background-color: rgb(11, 49, 75);
+    color: white;
+    height: 65px;
+    font-size: 27px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    font-family: 'Baloo 2', cursive;
+}
+
+nav ul{
+    list-style-type: none;
+}
+.container{
+    
+  
+    font-family: 'Baloo 2', cursive;
+    position: relative;
+}
+h1{
+    color: rgb(156, 22, 138);
+}
+input[type=text] {
+    border: 2px solid red;
+    border-radius: 4px;
+    padding: 11px 150px;
+    font-family: 'Baloo 2', cursive;
+    
+  }
+  button{
+    color: blue;
+    border-radius: 4px;
+    font-family: 'Baloo 2', cursive;
+
+  }
